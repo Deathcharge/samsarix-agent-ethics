@@ -46,7 +46,7 @@ openai-agents = [
     "openai-agents==0.18.3",
 ]
 pydantic-ai = [
-    "pydantic-ai-slim==2.22.0",
+    "pydantic-ai-slim==2.53.0",
 ]
 opentelemetry = [
     "opentelemetry-api==1.44.0",
